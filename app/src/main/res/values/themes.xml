@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DayNight: the app follows the system theme. windowBackground is set via an attribute
+         so the layout root does not draw its own background (overdraw) and the colour follows the theme. -->
+    <style name="Theme.P22NFCWriter" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">?android:attr/colorBackground</item>
+    </style>
+</resources>

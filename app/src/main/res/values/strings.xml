@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">P22 NFC Writer</string>
+    <string name="attach_message">Hold an NTAG213/203 NFC tag to the phone…</string>
+
+    <string name="label_size">Size</string>
+    <string name="label_design">Color / design</string>
+    <string name="label_code">Paper code (pages 5–7, 24 hex digits)</string>
+    <string name="read_only_mode">Read tag instead of writing</string>
+
+    <string name="decoded_info">%1$s\nwidth %2$d mm, length %3$d mm, format 0x%4$02X, design 0x%5$02X</string>
+    <string name="unknown_label">Not in catalog: Labelnise will treat it as a new label</string>
+    <string name="invalid_code">Code must be exactly 12 bytes (24 hex digits)</string>
+    <string name="read_done">Code: %1$s\n%2$s</string>
+    <string name="not_roll_tag">This tag does not contain a label roll record</string>
+    <string name="unsupported_tag">Not an NTAG tag — only NTAG203/213 rolls are supported</string>
+
+    <string name="catalog_server">Catalog: Labelnise server, labels: %1$d</string>
+    <string name="catalog_cache">Catalog: last downloaded copy, labels: %1$d</string>
+    <string name="catalog_bundled">Catalog: built-in list, labels: %1$d</string>
+    <string name="catalog_offline">Server unavailable (%1$s), using the list above</string>
+
+    <string name="writing_done">Writing done ✅</string>
+    <string name="success">Success!</string>
+    <string name="writing_failed">Failed</string>
+    <string name="writing_failed_on_page">Writing failed on page %1$d</string>
+    <string name="verify_failed">Read-back mismatch: %1$s</string>
+    <string name="tag_lost">Tag lost: hold it to the phone until writing finishes</string>
+
+    <string name="size_continuous">Continuous %1$s</string>
+</resources>

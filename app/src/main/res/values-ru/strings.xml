@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">P22 NFC Writer</string>
+    <string name="attach_message">Поднесите NFC-метку NTAG213/203 к телефону…</string>
+
+    <string name="label_size">Размер</string>
+    <string name="label_design">Цвет / дизайн</string>
+    <string name="label_code">Код бумаги (страницы 5–7, 24 hex-символа)</string>
+    <string name="read_only_mode">Прочитать метку вместо записи</string>
+
+    <string name="decoded_info">%1$s\nширина %2$d мм, длина %3$d мм, формат 0x%4$02X, дизайн 0x%5$02X</string>
+    <string name="unknown_label">Нет в каталоге: Labelnise покажет это как новую этикетку</string>
+    <string name="invalid_code">Код должен быть ровно 12 байт (24 hex-символа)</string>
+    <string name="read_done">Код: %1$s\n%2$s</string>
+    <string name="not_roll_tag">На метке нет записи катушки</string>
+    <string name="unsupported_tag">Это не NTAG-метка: поддерживаются только метки катушек NTAG203/213</string>
+
+    <string name="catalog_server">Каталог: сервер Labelnise, этикеток: %1$d</string>
+    <string name="catalog_cache">Каталог: последняя загруженная копия, этикеток: %1$d</string>
+    <string name="catalog_bundled">Каталог: встроенный список, этикеток: %1$d</string>
+    <string name="catalog_offline">Сервер недоступен (%1$s), используется список выше</string>
+
+    <string name="writing_done">Записано ✅</string>
+    <string name="success">Успешно!</string>
+    <string name="writing_failed">Ошибка</string>
+    <string name="writing_failed_on_page">Ошибка записи страницы %1$d</string>
+    <string name="verify_failed">Проверка не прошла, прочитано: %1$s</string>
+    <string name="tag_lost">Метка потеряна: держите её у телефона до конца</string>
+
+    <string name="size_continuous">Лента %1$s</string>
+</resources>
