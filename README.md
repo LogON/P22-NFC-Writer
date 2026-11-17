@@ -40,8 +40,8 @@ the code up in its server catalog to get the size, gap and background design. Th
 - Under the **Paper code** field the app shows the decoded size and whether the code is in the catalog.
 
 Full format: [docs/TAG_FORMAT.md](docs/TAG_FORMAT.md). Example roll dumps: [docs/dumps](docs/dumps)
-(shared by [mchangrh](https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3873826757);
-not covered by the MIT license).
+(contributed by [mchangrh](https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3873826757)
+under the MIT license, see [#1](https://github.com/LogON/P22-NFC-Writer/issues/1)).
 
 ## Build from source
 

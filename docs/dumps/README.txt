@@ -11,5 +11,8 @@ No SN or other identifying information on the packaging - ordered 2025/02/08
 ---
 Source: these dumps and the note above were posted by GitHub user mchangrh on 2026-02-09 in
 https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3873826757
-(attachment Nelko_Color.zip). They are included here with attribution as reference data;
-all credit to the original author. They are not covered by this repository's MIT license.
+(attachment Nelko_Color.zip). The author licensed these dumps under the MIT license:
+https://github.com/LogON/P22-NFC-Writer/issues/1
+(the grant also covers the earlier dumps in
+https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3702464299).
+All credit to the original author.

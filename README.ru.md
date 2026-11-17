@@ -41,8 +41,8 @@ Android-приложение, которое записывает NFC-метку
 - Под полем **Код бумаги** приложение показывает расшифровку размера и есть ли код в каталоге.
 
 Формат подробно: [docs/TAG_FORMAT.ru.md](docs/TAG_FORMAT.ru.md). Дампы оригинальных катушек:
-[docs/dumps](docs/dumps) (выложил [mchangrh](https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3873826757);
-лицензия MIT на них не распространяется).
+[docs/dumps](docs/dumps) (передал [mchangrh](https://github.com/merlinschumacher/nelko-p21-print/issues/2#issuecomment-3873826757)
+под лицензией MIT, см. [#1](https://github.com/LogON/P22-NFC-Writer/issues/1)).
 
 ## Сборка из исходников
 
